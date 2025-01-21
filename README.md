@@ -28,8 +28,27 @@
 
 ## 🔹 Project Dashboard Includes
 Page 1: Revenue Analysis
+
 Page 2: Quantity Analysis
 
+
+### 🔹 Data Preparation
+  In the initial data preparation phase, the following tasks were performed:
+
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting
+
+
+### 🔹 Exploratory Data Analysis 
+
+  EDA involved analyzing the sales data to answer key business questions, including:
+
+- What is the overall revenue trend?
+- Which products and customers contribute the most to revenue?
+- What are the peak revenue-generating periods?
+
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI/blob/master/assets/Screenshot%20(25).png?raw=true)
 
 KPI's:
 Total Customers
@@ -59,6 +78,7 @@ Quantity by Country
 Top 10 Customers by Quantity
 Quantity Sold by Time of the Day
 Country Statistics Table (Country, Total Quantity, Revenue, Customer Count)
+
 🔹 Data Preparation
 In the initial phase of data preparation, the following tasks were completed:
 
@@ -66,6 +86,7 @@ Data Loading and Inspection: Verified the structure and content of the dataset.
 Handling Missing Values: Ensured data completeness and accuracy.
 Data Cleaning and Formatting: Standardized column names, corrected inconsistencies, and formatted date and time fields.
 Time of Day Analysis: Created a derived column to categorize transactions into different time periods (Morning, Afternoon, Evening, Night).
+
 🔹 Exploratory Data Analysis
 The analysis explored the following key questions:
 
@@ -74,35 +95,73 @@ Which products generate the most revenue and quantity?
 Who are the top customers by revenue and quantity?
 What are the peak sales periods during the day?
 Which countries contribute most to revenue and sales volume?
+
 🔹 Insights
-Revenue Analysis
-Top Countries by Revenue:
 
-The highest revenue was generated from the United Kingdom, followed by Germany and France.
-Top Products by Revenue:
+1] Leading Product Categories:
 
-The top 5 products contributed 40% of total revenue, showcasing their importance to the retailer's profitability.
-Monthly Revenue Trends:
+- Paper Craft Items and Amazon Fee Products are consistently the top-selling categories across all regions, far surpassing 
+  other products in demand.
+- Products like Jumbo Bags and White Handcrafted Items have moderate demand but remain niche compared to the top categories.
 
-Revenue peaked in December, indicating strong seasonal sales during the holiday period.
-Time of Day Analysis:
+2] Revenue Insights & Profitability Outlook:
 
-Sales were highest in the afternoon, contributing 40% of the daily revenue, followed by the evening period.
-Quantity Analysis
-Top Products by Quantity Sold:
+- The **United Kingdom** leads in revenue contribution, accounting for over 85% of total sales revenue (**98.6M** out of 
+  **115.8M**),followed by **Netherlands** and **Germany**.
+- Top-selling products by quantity, such as **Paper Craft,Little Birdie Items** and **Medieval Ceramic Top Storage Jar** 
+  Products, show consistent demand, 
+  offering opportunities to expand production or optimize supply chains.
+- **Occasional customers** dominate the revenue contribution, accounting for **95.7%** of the total revenue, indicating an 
+  opportunity to focus on converting them into regular customers through loyalty programs or targeted campaigns.
 
-The top 5 products accounted for 35% of the total quantity sold, with consistent demand across months.
-Top Customers by Quantity:
+3] Sales Performance Over Time (Trend Analysis):
 
-The top 10 customers collectively purchased 30% of the total quantity sold, indicating their importance for customer retention strategies.
-Country Statistics Table:
+- A notable revenue spike occurs in October and November, suggesting the influence of seasonal events or promotional 
+  campaigns.
+- Consistent low-revenue months like January and February may indicate opportunities to introduce targeted marketing 
+  strategies during slower periods.
 
-The United Kingdom led in both quantity sold and customer count, emphasizing its key role in the retailer’s market.
-🔹 Recommendations
-Based on the analysis, the following actions are recommended:
+4] Impact of Sales Strategies:
 
-Focus on Top Products: Invest in promoting and maintaining inventory for the top 5 products that drive revenue and quantity.
-Target Peak Times: Increase advertising and staffing during the afternoon and evening to maximize sales.
-Expand in High-Performing Countries: Strengthen marketing campaigns in Germany and France to capitalize on their revenue potential.
-Leverage Customer Insights: Implement loyalty programs for top customers to increase retention and drive repeat sales.
-Seasonal Planning: Prepare for high sales volumes in December by optimizing inventory and logistics for the holiday season.
+- **Afternoon **sales hours consistently outperform other time slots in terms of quantity.
+- Larger product bundles and curated gift sets generate higher profitability when promoted as premium offerings.
+
+5] Regional Analysis:
+
+- Europe remains the dominant revenue generator, especially the **UK** and **Germany**, followed by growing markets like 
+  **France** and **Netherlands**.
+- Certain products like **Jumbo Bags** perform exceptionally well in **Ireland**, indicating region-specific preferences.
+
+6] Opportunities for Market Expansion:
+
+- Expanding premium product offerings, such as handcrafted items, to regions like Germany and France could capitalize on 
+  growing demand.
+- Focused marketing on high-demand time slots (e.g., afternoons) and seasons (e.g., fall months) can further drive revenue 
+  growth.
+
+🔹 Recommendations:
+
+✦ Leverage Peak Sales Periods:
+
+ Capitalize on the strong sales spikes in October and November by planning targeted marketing campaigns, special 
+ promotions, and seasonal offerings to maximize revenue during these months.
+
+✦ Focus on High-Demand Products:
+
+ Promote and expand the availability of top-selling items like Paper Craft and Manual Ceramic Products, as well as region- 
+ specific favorites like Jumbo Bags, to meet customer demand more effectively across markets.
+
+✦ Target Afternoon Sales Hours:
+
+ Optimize sales strategies during afternoon hours, as they consistently outperform other time slots. This includes 
+ promoting time-sensitive offers or flash sales tailored for the afternoon audience.
+
+✦ Strengthen Regional Focus:
+
+ Increase marketing efforts in key regions like the United Kingdom, Eire, and the Netherlands, where revenue is most 
+ concentrated. Additionally, explore growth opportunities in emerging markets like France and Germany with premium products.
+
+✦ Enhance Customer Segmentation:
+
+ Implement a tailored customer segmentation strategy to better engage high-value and regular customers. Personalized offers 
+ and targeted communications will help increase their lifetime value (LTV) and drive repeat sales.
