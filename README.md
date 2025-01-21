@@ -50,6 +50,8 @@ Page 2: Quantity Analysis
 
 ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(28).png?raw=true)
 
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(27).png?raw=true)
+
 
 KPI's:
 Total Customers
