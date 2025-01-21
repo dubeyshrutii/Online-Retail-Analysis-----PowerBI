@@ -48,7 +48,7 @@ Page 2: Quantity Analysis
 - Which products and customers contribute the most to revenue?
 - What are the peak revenue-generating periods?
 
-![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Call-Center-Trend-Analysis---PowerBI/blob/master/assets/Screenshot%20(25).png?raw=true)
+![Screenshot 2024-05-06 150952](Screenshot (28).png)
 
 KPI's:
 Total Customers
