@@ -46,58 +46,14 @@ Page 2: Quantity Analysis
 
 - What is the overall revenue trend?
 - Which products and customers contribute the most to revenue?
-- What are the peak revenue-generating periods?
+- Who are the top customers by revenue and quantity?
+- What are the peak sales periods during the day?
+- Which countries contribute most to revenue and sales volume?
+
 
 ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(28).png?raw=true)
 
 ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(27).png?raw=true)
-
-
-KPI's:
-Total Customers
-Total Revenue
-Total Products Sold
-Average Revenue per Customer
-Visuals:
-
-Revenue by Month
-Revenue by Top 5 Products
-Revenue by Top 10 Customers
-Revenue by Country
-Revenue by Time of the Day
-Revenue by Country (Map Visualization)
-Sheet 2: Quantity Analysis
-KPI's:
-
-Total Customers
-Total Revenue
-Total Products Sold
-Total Quantity Sold
-Visuals:
-
-Quantity by Month
-Top 5 Products by Quantity
-Quantity by Country
-Top 10 Customers by Quantity
-Quantity Sold by Time of the Day
-Country Statistics Table (Country, Total Quantity, Revenue, Customer Count)
-
-🔹 Data Preparation
-In the initial phase of data preparation, the following tasks were completed:
-
-Data Loading and Inspection: Verified the structure and content of the dataset.
-Handling Missing Values: Ensured data completeness and accuracy.
-Data Cleaning and Formatting: Standardized column names, corrected inconsistencies, and formatted date and time fields.
-Time of Day Analysis: Created a derived column to categorize transactions into different time periods (Morning, Afternoon, Evening, Night).
-
-🔹 Exploratory Data Analysis
-The analysis explored the following key questions:
-
-What is the revenue trend over time?
-Which products generate the most revenue and quantity?
-Who are the top customers by revenue and quantity?
-What are the peak sales periods during the day?
-Which countries contribute most to revenue and sales volume?
 
 🔹 Insights
 
