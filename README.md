@@ -48,7 +48,8 @@ Page 2: Quantity Analysis
 - Which products and customers contribute the most to revenue?
 - What are the peak revenue-generating periods?
 
-![Screenshot 2024-05-06 150952](Screenshot (28).png)
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(28).png?raw=true)
+
 
 KPI's:
 Total Customers
