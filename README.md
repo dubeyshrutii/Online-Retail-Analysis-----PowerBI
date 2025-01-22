@@ -51,9 +51,9 @@ Page 2: Quantity Analysis
 - Which countries contribute most to revenue and sales volume?
 
 
-![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(28).png?raw=true)
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Revenue%20Page.png?raw=true)
 
-![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Screenshot%20(27).png?raw=true)
+![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Quantity%20Page.png?raw=true)
 
 🔹 Insights
 
