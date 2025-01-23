@@ -1,4 +1,4 @@
-# Online-Retail-Analysis-----PowerBI
+# Online-Retail-Store-Analysis-----PowerBI
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -6,34 +6,26 @@
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Dashboard](#dashboard)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
-- [Dashboard](#dashboard)
+
 
 
 
 ### 🔹 Project Overview
-- This project focused on analyzing online retail data to uncover key business insights and trends. The objective was to process the dataset, identify patterns, and present 
-  findings through a visually engaging dashboard.
-- The dashboard is divided into two sections: **Revenue Analysis** and **Quantity Analysis**, offering a comprehensive view of the business performance from different 
-  perspectives.
-
+- This project focused on analyzing online retail data to uncover key business insights and trends. The objective was to 
+  process the dataset, identify patterns, and present findings through a visually engaging dashboard.
+- The dashboard is divided into two sections: **Revenue Analysis** and **Quantity Analysis**, offering a comprehensive view 
+  of the business performance from different perspectives.
 
 ### 🔹 Data Source
-- Online Retail Data: The dataset was sourced from the Tata Group Virtual Internship Program on Forage under the topic "Data Visualization: Empowering Business with 
-  Effective Insights."
+- Online Retail Data: The dataset was sourced from the Tata Group Virtual Internship Program on Forage under the topic"Data 
+  Visualization: Empowering Business with Effective Insights."
   
 ### 🔹 Tools
 - Excel: Data Cleaning and Preparation
 - Power BI: Dashboard Creation and Data Visualization
-
-## 🔹 Project Dashboard Includes
-Page 1: Revenue Analysis
-- Key metrics such as total revenue, average revenue per customer, and revenue distribution across products, customers, time, and regions.
-
-Page 2: Quantity Analysis
-- Insights into quantity sold by products, customers, and regions, providing a detailed view of inventory movement.
-
 
 ### 🔹 Data Preparation
   In the initial data preparation phase, the following tasks were performed:
@@ -53,6 +45,14 @@ Page 2: Quantity Analysis
 - Which countries contribute most to revenue and sales volume?
 
 
+## 🔹 Project Dashboard Includes
+Page 1: Revenue Analysis
+- Key metrics such as total revenue, average revenue per customer, and revenue distribution across products, customers, 
+  time, and regions.
+
+Page 2: Quantity Analysis
+- Insights into quantity sold by products, customers, and regions, providing a detailed view of inventory movement.
+  
 ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Revenue%20Page.png?raw=true)
 
 ![Screenshot 2024-05-06 150952](https://github.com/dubeyshrutii/Online-Retail-Analysis-----PowerBI/blob/master/Quantity%20Page.png?raw=true)
@@ -63,24 +63,33 @@ Page 2: Quantity Analysis
 
 1] Seasonal Trends
 - Revenue patterns reveal a stable trend during the first eight months, with average monthly revenue of approximately ₹622K.
-- A significant revenue surge begins in September and peaks in November at ₹1.6M, highlighting strong seasonal demand during the holiday period.
-- The last quarter's performance indicates that retail sales are highly influenced by seasonal factors, suggesting opportunities for targeted promotions during these months.
+- A significant revenue surge begins in September and peaks in November at ₹1.6M, highlighting strong seasonal demand 
+  during the holiday period.
+- The last quarter's performance indicates that retail sales are highly influenced by seasonal factors, suggesting 
+  opportunities for targeted promotions during these months.
 
 2] Country-wise Revenue Analysis
-- The top-performing countries include UK, Netherlands, Germany, France, and Ireland, which collectively contribute to a significant portion of the overall revenue.
-- Countries like Australia and Spain show potential for growth, while regions such as Asia and Africa currently exhibit minimal demand.
-- To maximize profitability, the company should focus on high-performing regions and explore strategies to expand in untapped markets.
+- The top-performing countries include UK, Netherlands, Germany, France, and Ireland, which collectively contribute to a 
+  significant portion of the overall revenue.
+- Countries like Australia and Spain show potential for growth, while regions such as Asia and Africa currently exhibit 
+  minimal demand.
+- To maximize profitability, the company should focus on high-performing regions and explore strategies to expand in 
+  untapped markets.
 
 3] Customer Analysis
-- The analysis indicates a balanced distribution of revenue among the top 10 customers, with no single customer contributing disproportionately.
-- Occasional customers contribute 95.7% of total revenue, highlighting an opportunity to convert them into regular customers through loyalty programs.
-- Additionally, the minimal revenue difference (7%) between the top two customers indicates a diverse customer base, reducing dependency on individual customers and 
-  minimizing concentration risks.
+- The analysis indicates a balanced distribution of revenue among the top 10 customers, with no single customer 
+  contributing disproportionately.
+- Occasional customers contribute 95.7% of total revenue, highlighting an opportunity to convert them into regular 
+  customers through loyalty programs.
+- Additionally, the minimal revenue difference (7%) between the top two customers indicates a diverse customer base, 
+  reducing dependency on individual customers and minimizing concentration risks.
 
 4] Regional Analysis
-- Countries such as the UK, Netherlands, Germany, France, and Ireland are generating significant revenue and demand for products.
+- Countries such as the UK, Netherlands, Germany, France, and Ireland are generating significant revenue and demand for 
+  products.
 - Australia and Switzerland show moderate activity, indicating growth opportunities with increased marketing efforts.
-- Regions like Africa, Asia, and Russia currently lack demand, suggesting these markets may not align with the current product offerings or marketing strategies.
+- Regions like Africa, Asia, and Russia currently lack demand, suggesting these markets may not align with the current 
+  product offerings or marketing strategies.
 
 5] Impact of Sales Strategies:
 - **Afternoon** sales hours consistently outperform other time slots in terms of quantity.
